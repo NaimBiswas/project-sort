@@ -5,7 +5,7 @@ This project simulates a robotic dispatch system for sorting packages based on t
 
 ## 🚀 Live Demo
 
-You can run and test the sorter interactively on by creating a new HTML/CSS/JS project and pasting the code from this repository.
+Click Here: https://naimbiswas.github.io/project-sort/
 
 ## 📐 Sorting Rules
 
